@@ -22,7 +22,3 @@ Command Pattern adalah sebuah design pattern dalam pemrograman berorientasi obje
 4. **Receiver**: Objek yang tahu bagaimana melakukan operasi yang diperlukan.
 
 Dalam proyek ini, `ICommand` adalah Command, `WalkCommand`, `RunCommand`, dan `DashCommand` adalah ConcreteCommand, `PlayerController` adalah Invoker, dan `Player` adalah Receiver.
-
----
-
-Dengan menambahkan penjelasan ini, README kamu akan memberikan pemahaman yang lebih baik tentang apa itu Command Pattern dan bagaimana ia diimplementasikan dalam proyek ini.
